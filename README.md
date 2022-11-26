@@ -21,3 +21,4 @@ Oi, Eu sou Vitoria sou estudante de Engenharia de Computação,<br>e entusiasta 
 [![](https://visitcount.itsvg.in/api?id=vih0&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
