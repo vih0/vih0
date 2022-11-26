@@ -15,8 +15,7 @@ Oi, Eu sou Vitoria sou estudante de Engenharia de Computação,<br>e entusiasta 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vih0&icon=9&color=0)](https://visitcount.itsvg.in)
